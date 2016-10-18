@@ -5,3 +5,5 @@ In this file, I provide several useful systems and devices which I often use in 
 1) ExcelParser.
 
 2) Random string generator.
+
+3) TXT file editor
